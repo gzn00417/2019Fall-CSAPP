@@ -1,0 +1,6 @@
+I turned the moon into something I call a Death Star.
+1 2 4 8 16 32
+4 f 668
+12 43
+-63487
+4 6 2 5 3 1
