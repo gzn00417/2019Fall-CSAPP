@@ -5,6 +5,9 @@
 - 书本辅助
 ## Homeworks
 - CSAPP书后习题
+## 笔记总结
+- [计算机系统_gzn00417的博客](https://blog.csdn.net/gzn00417/category_9707655.html)
+- CSAPP第二~九章OneNote笔记总结
 ## Labs
 - 8次实验
 - CMU翻译+HIT原创
